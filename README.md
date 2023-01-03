@@ -1,4 +1,3 @@
-# Final-Year-Project
 
 # Django Simple E-Commerce Website (ENursery)
 This is a simple E-Commerce website built with Django (Python) 
